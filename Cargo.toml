@@ -1,0 +1,6 @@
+[package]
+name = "rust-playground"
+version = "0.1.0"
+authors = ["Jonathan Tougas <jtougas@gmail.com>"]
+edition = "2018"
+
